@@ -48,7 +48,7 @@ document.querySelector('.form-control').addEventListener('keyup', function (even
 document.getElementById('image').addEventListener('mouseenter', function(){
     // console.log('mouseenter')
     const image = document.getElementById('image');
-    image.src = "/images/categories/bag.png";
+    image.src = "./images/categories/bag.png";
 })
 
 //8 dabolclick
